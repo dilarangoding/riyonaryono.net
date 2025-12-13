@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  {{ partial "head.html" . }}
+
+  <body>
+    <header>
+      <h2>{{ .Site.Params.author | default .Site.Title }}</h2>
+    </header>
+
+    <main>
+      {{ .Content }}
+
+      {{ $posts := where .Site.RegularPages "Type" "posts" }}
+      {{ if $posts }}
+      <h3 id="posts">Notes & Articles</h3>
+      <ul>
+        {{ range first 5 $posts }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "02-01-2006" }})</li>
+        {{ end }}
+      </ul>
+      {{ end }}
+
+      {{ $projects := where .Site.RegularPages "Type" "projects" }}
+      {{ if $projects }}
+      <h3 id="projects">Projects</h3>
+      <ul>
+        {{ range first 5 $projects }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ if .Params.description }} &ndash; {{ .Params.description }}{{ end }}</li>
+        {{ end }}
+      </ul>
+      {{ end }}
+
+      <h3>Links</h3>
+      <ul>
+        <li><a href="/posts">Notes & Articles</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/books">Books</a></li>
+        <li><a href="/uses">Uses</a></li>
+        <li><a href="/blogroll">Blogroll</a></li>
+      </ul>
+    </main>
+
+    {{ partial "footer.html" . }}
+  </body>
+</html>

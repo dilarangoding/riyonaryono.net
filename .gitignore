@@ -1,0 +1,23 @@
+# Hugo build files
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+
+hugo_cache/
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+node_modules/
+
+package-lock.json
+yarn.lock
+
+*.log
+.hugo_build.lock

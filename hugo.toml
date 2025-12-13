@@ -1,0 +1,22 @@
+baseURL = 'https://riyonaryono.net/'
+languageCode = 'en-us'
+title = 'Riyon Aryono'
+
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+
+[params]
+  author = 'Riyon Aryono'
+  description = 'Developer.'
+  buildDate = '2025-12-13'
+
+[markup.goldmark.renderer]
+  unsafe = true
