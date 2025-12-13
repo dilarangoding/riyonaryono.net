@@ -83,6 +83,16 @@
     </item>
     
     <item>
+      <title>Guestbook</title>
+      <link>http://localhost:1313/guestbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/guestbook/</guid>
+      <description>&lt;p&gt;Tinggalkan pesan di guestbook! 👋&lt;/p&gt;
+&lt;p&gt;Guestbook ini menggunakan GitHub Discussions, jadi kamu perlu login dengan akun GitHub untuk meninggalkan pesan.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Uses</title>
       <link>http://localhost:1313/uses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
