@@ -1,65 +1,135 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Riyonaryono on Riyon Aryono</title><link>https://riyonaryono.net/</link><description>Recent content in Riyonaryono on Riyon Aryono</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 14 Dec 2025 10:00:00 +0700</lastBuildDate><atom:link href="https://riyonaryono.net/index.xml" rel="self" type="application/rss+xml"/><item><title>Projects</title><link>https://riyonaryono.net/projects/</link><pubDate>Sun, 14 Dec 2025 10:00:00 +0700</pubDate><guid>https://riyonaryono.net/projects/</guid><description>&lt;p>All my projects.&lt;/p></description></item><item><title>Posts</title><link>https://riyonaryono.net/posts/</link><pubDate>Sun, 14 Sep 2025 10:00:00 +0700</pubDate><guid>https://riyonaryono.net/posts/</guid><description>&lt;p>All my notes and articles.&lt;/p></description></item><item><title>Blogroll</title><link>https://riyonaryono.net/blogroll/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://riyonaryono.net/blogroll/</guid><description>&lt;ul>
-&lt;li>&lt;a href="https://manuelmoreale.com">Manuel Moreale&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://maximevaillancourt.com">Maxime Vaillancourt&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://stephango.com">Steph Ango&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://grisseldanihardja.com">Grisselda Nihardja&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://kevinanggara.com">Kevin Anggara&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://hilman.space">Hilman Ramadhan&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ivanlanin.wordpress.com">Ivan Lanin&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Books</title><link>https://riyonaryono.net/books/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://riyonaryono.net/books/</guid><description>&lt;h3 id="2025">2025&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Laut Bercerita&lt;/strong> by Leila S. Chudori&lt;/li>
-&lt;/ul>
-&lt;h3 id="2024">2024&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Building a Second Brain&lt;/strong> by Tiago Forte&lt;/li>
-&lt;li>&lt;strong>The Fall&lt;/strong> by Albert Camus&lt;/li>
-&lt;li>&lt;strong>The Stone Grows&lt;/strong> by Albert Camus&lt;/li>
-&lt;li>&lt;strong>The Myth of Sisyphus&lt;/strong> by Albert Camus&lt;/li>
-&lt;li>&lt;strong>The Metamorphosis&lt;/strong> by Franz Kafka&lt;/li>
-&lt;li>&lt;strong>The Picture of Dorian Gray&lt;/strong> by Oscar Wilde&lt;/li>
-&lt;li>&lt;strong>Namaku Alam&lt;/strong> by Leila S. Chudori&lt;/li>
-&lt;/ul>
-&lt;h3 id="2023">2023&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Aku Ini Binatang Jalang&lt;/strong> by Chairil Anwar&lt;/li>
-&lt;li>&lt;strong>The Stranger&lt;/strong> by Albert Camus&lt;/li>
-&lt;li>&lt;strong>Norwegian Wood&lt;/strong> by Haruki Murakami&lt;/li>
-&lt;li>&lt;strong>Sepotong Senja Untuk Pacarku&lt;/strong> by Seno Gumira Ajidarma&lt;/li>
-&lt;/ul>
-&lt;h3 id="2022">2022&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Pulang&lt;/strong> by Leila S. Chudori&lt;/li>
-&lt;li>&lt;strong>Filosofi Teras&lt;/strong> by Henry Manampiring&lt;/li>
-&lt;/ul></description></item><item><title>Guestbook</title><link>https://riyonaryono.net/guestbook/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://riyonaryono.net/guestbook/</guid><description>&lt;p>Leave a comment below. It could be anything – question, appreciation, information, or even humor.&lt;/p></description></item><item><title>Uses</title><link>https://riyonaryono.net/uses/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://riyonaryono.net/uses/</guid><description>&lt;h3 id="hardware">Hardware&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Laptop:&lt;/strong> Asus VivoBook X407UB&lt;/li>
-&lt;/ul>
-&lt;h3 id="software--tools">Software &amp;amp; Tools&lt;/h3>
-&lt;h4 id="development">Development&lt;/h4>
-&lt;ul>
-&lt;li>&lt;strong>Editor:&lt;/strong> Zed, VS Code &amp;amp; Neovim&lt;/li>
-&lt;li>&lt;strong>API Client:&lt;/strong> Yaak&lt;/li>
-&lt;li>&lt;strong>Database:&lt;/strong> DBeaver&lt;/li>
-&lt;li>&lt;strong>Terminal:&lt;/strong> Alacritty&lt;/li>
-&lt;li>&lt;strong>OS:&lt;/strong> Fedora Sway Tiling WM&lt;/li>
-&lt;/ul>
-&lt;h4 id="productivity">Productivity&lt;/h4>
-&lt;ul>
-&lt;li>&lt;strong>Notes:&lt;/strong> Obsidian &amp;amp; Notesnook&lt;/li>
-&lt;li>&lt;strong>Task Manager:&lt;/strong> TicTick&lt;/li>
-&lt;li>&lt;strong>Browser:&lt;/strong> Zen Browser&lt;/li>
-&lt;li>&lt;strong>Password Manager:&lt;/strong> Bitwarden&lt;/li>
-&lt;li>&lt;strong>Flashcards:&lt;/strong> Anki&lt;/li>
-&lt;/ul>
-&lt;h4 id="mobile">Mobile&lt;/h4>
-&lt;ul>
-&lt;li>&lt;strong>YouTube:&lt;/strong> NewPipe&lt;/li>
-&lt;li>&lt;strong>Launcher:&lt;/strong> Olauncher&lt;/li>
-&lt;/ul>
-&lt;h3 id="this-site">This Site&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Generator:&lt;/strong> Hugo&lt;/li>
-&lt;li>&lt;strong>Hosting:&lt;/strong> Cloudflare Pages&lt;/li>
-&lt;li>&lt;strong>Repository:&lt;/strong> GitHub&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riyonaryono on Riyon Aryono</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Riyonaryono on Riyon Aryono</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Sun, 14 Dec 2025 10:00:00 +0700</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 14 Dec 2025 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;All my projects.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://localhost:1313/posts/</link>
+      <pubDate>Sun, 14 Sep 2025 10:00:00 +0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/</guid>
+      <description>&lt;p&gt;All my notes and articles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blogroll</title>
+      <link>http://localhost:1313/blogroll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogroll/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://manuelmoreale.com&#34;&gt;Manuel Moreale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://maximevaillancourt.com&#34;&gt;Maxime Vaillancourt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://stephango.com&#34;&gt;Steph Ango&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://grisseldanihardja.com&#34;&gt;Grisselda Nihardja&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kevinanggara.com&#34;&gt;Kevin Anggara&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hilman.space&#34;&gt;Hilman Ramadhan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ivanlanin.wordpress.com&#34;&gt;Ivan Lanin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>http://localhost:1313/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/books/</guid>
+      <description>&lt;h3 id=&#34;2025&#34;&gt;2025&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Laut Bercerita&lt;/strong&gt; by Leila S. Chudori&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Building a Second Brain&lt;/strong&gt; by Tiago Forte&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Fall&lt;/strong&gt; by Albert Camus&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Stone Grows&lt;/strong&gt; by Albert Camus&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Myth of Sisyphus&lt;/strong&gt; by Albert Camus&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Metamorphosis&lt;/strong&gt; by Franz Kafka&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Picture of Dorian Gray&lt;/strong&gt; by Oscar Wilde&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Namaku Alam&lt;/strong&gt; by Leila S. Chudori&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Aku Ini Binatang Jalang&lt;/strong&gt; by Chairil Anwar&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Stranger&lt;/strong&gt; by Albert Camus&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Norwegian Wood&lt;/strong&gt; by Haruki Murakami&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sepotong Senja Untuk Pacarku&lt;/strong&gt; by Seno Gumira Ajidarma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pulang&lt;/strong&gt; by Leila S. Chudori&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Filosofi Teras&lt;/strong&gt; by Henry Manampiring&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guestbook</title>
+      <link>http://localhost:1313/guestbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/guestbook/</guid>
+      <description>&lt;p&gt;Leave a comment below. It could be anything – question, appreciation, information, or even humor.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uses</title>
+      <link>http://localhost:1313/uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/uses/</guid>
+      <description>&lt;h3 id=&#34;hardware&#34;&gt;Hardware&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Laptop:&lt;/strong&gt; Asus VivoBook X407UB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;software--tools&#34;&gt;Software &amp;amp; Tools&lt;/h3&gt;
+&lt;h4 id=&#34;development&#34;&gt;Development&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Editor:&lt;/strong&gt; Zed, VS Code &amp;amp; Neovim&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;API Client:&lt;/strong&gt; Yaak&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database:&lt;/strong&gt; DBeaver&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Terminal:&lt;/strong&gt; Alacritty&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OS:&lt;/strong&gt; Fedora Sway Tiling WM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;productivity&#34;&gt;Productivity&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Notes:&lt;/strong&gt; Obsidian &amp;amp; Notesnook&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Task Manager:&lt;/strong&gt; TicTick&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Browser:&lt;/strong&gt; Zen Browser&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Password Manager:&lt;/strong&gt; Bitwarden&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flashcards:&lt;/strong&gt; Anki&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;mobile&#34;&gt;Mobile&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;YouTube:&lt;/strong&gt; NewPipe&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Launcher:&lt;/strong&gt; Olauncher&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;this-site&#34;&gt;This Site&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Generator:&lt;/strong&gt; Hugo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hosting:&lt;/strong&gt; Cloudflare Pages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Repository:&lt;/strong&gt; GitHub&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

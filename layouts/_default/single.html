@@ -6,31 +6,24 @@
 
 <main id="content">
 
-	<article class="post">
-
-		<header class="entry-header">
-			<div class="entry-header-meta">
-				<address>
-					<a rel="author" class="url fn n" href="/">
-						{{ .Site.Params.author | default .Site.Title }}
-					</a>
-				</address>
-
-				<time class="entry-date published updated" datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">
-					{{ .Date.Format "January 02, 2006" }}
-				</time>
-			</div>
-			<h1>{{ .Title }}</h1>
-		</header>
-
-		<div class="entry-content">
-			{{ .Content }}
+	<header class="page-header">
+		<div class="entry-header-meta">
+			<address>
+				<a rel="author" class="url fn n" href="/">
+					{{ .Site.Params.author | default .Site.Title }}
+				</a>
+			</address>
 		</div>
+		<h1>{{ .Title }}</h1>
+	</header>
 
-		<footer class="entry-footer">
-		</footer>
+	<div class="page-content">
+		{{ .Content }}
 
-	</article>
+		{{ if eq .Title "Guestbook" }}
+		{{ partial "giscus.html" . }}
+		{{ end }}
+	</div>
 
 </main>
 
