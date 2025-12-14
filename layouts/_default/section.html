@@ -7,6 +7,13 @@
 <main id="content">
 
 	<header class="page-header">
+			<div class="entry-header-meta">
+        <address>
+          <a rel="author" class="url fn n" href="/">
+            {{ .Site.Params.author | default .Site.Title }}
+          </a>
+        </address>
+      </div>
 		<h1>{{ .Title }}</h1>
 	</header>
 
