@@ -10,7 +10,7 @@ title: "Uses"
 ### Software & Tools
 
 #### Development
-- **Editor:** Zed, VS Code & Neovim
+- **Editor:** Zed & Neovim
 - **API Client:** Yaak
 - **Database:** DBeaver
 - **Terminal:** Alacritty
@@ -25,7 +25,7 @@ title: "Uses"
 
 #### Mobile
 - **YouTube:** NewPipe
-- **Launcher:** Olauncher
+- **Launcher:** Flow Launcher
 
 ### This Site
 
