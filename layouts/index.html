@@ -17,6 +17,11 @@
         {{ range first 5 $posts }}
         <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "02-01-2006" }})</li>
         {{ end }}
+        <li>
+          <a href="/posts">
+            View all notes & articles
+          </a>
+        </li>
       </ul>
       {{ end }}
 
@@ -25,8 +30,13 @@
       <h3 id="projects">Projects</h3>
       <ul>
         {{ range first 5 $projects }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ if .Params.description }} &ndash; {{ .Params.description }}{{ end }}</li>
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "02-01-2006" }})</li>
         {{ end }}
+         <li>
+          <a href="/projects">
+            View all projects
+          </a>
+        </li>
       </ul>
       {{ end }}
 
@@ -37,7 +47,7 @@
         <li><a href="/books">Books</a></li>
         <li><a href="/uses">Uses</a></li>
         <li><a href="/blogroll">Blogroll</a></li>
-        <li><a href="/guestbook">Guestbook</a></li> 
+        <li><a href="/guestbook">Guestbook</a></li>
       </ul>
     </main>
 
