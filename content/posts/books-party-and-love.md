@@ -1,7 +1,7 @@
 ---
 title: "Books, Parties, and Love"
 date: 2025-09-14T10:00:00+07:00
-draft: false
+draft: true
 ---
 *“Buku, pesta, dan cinta — itulah hidup kami, mahasiswa.”* ~ Mars UI 1957
 
