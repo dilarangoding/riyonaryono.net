@@ -1,7 +1,7 @@
 ---
 title: "Politik, Pesta, Cinta dan Eksistensi kita Sebagai Mahasiswa"
 date: 2025-07-01T10:00:00+07:00
-draft: false
+draft: true
 ---
 Gue masih bertanya-tanya, sejak kapan kata "mahasiswa" punya beban seberat ini? Mungkin sejak disandingkan sama perubahan. Agen perubahan, konon katanya.
 
