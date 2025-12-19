@@ -1,7 +1,7 @@
 ---
 title: "Orang-orang Asing"
 date: 2025-07-04T10:00:00+07:00
-draft: false
+draft: true
 ---
 Hidup gue rasanya baru mulai di umur 16, waktu gue magang di Bandung. Kota pertama yang benar-benar baru buat gue.
 
