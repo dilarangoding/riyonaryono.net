@@ -76,31 +76,13 @@ hr::after {
   letter-spacing: 0.5em;
 }
 
-/* HR di halaman utama tetap garis */
 body>hr {
-  border: none;
   border-top: 1px solid #ccc;
-  margin: 1.5em 0;
   height: 0;
 }
 
 body>hr::after {
   content: none;
-}
-
-.entry-content hr {
-  border: none;
-  display: block;
-  text-align: center;
-  margin: 1.5em 0;
-  height: 1.5em;
-  line-height: 1.5em;
-}
-
-.entry-content hr::after {
-  content: "***";
-  color: #333;
-  letter-spacing: 0.5em;
 }
 
 header,
@@ -152,4 +134,67 @@ code {
   padding: 0.1em 0.3em;
   border-radius: 3px;
   font-family: monospace;
+}
+
+pre {
+  background: #1e1e1e;
+  color: #d4d4d4;
+  padding: 1em;
+  border-radius: 5px;
+  overflow-x: auto;
+  line-height: 1.4;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  color: inherit;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+}
+
+th,
+td {
+  border: 1px solid #000;
+  padding: 0.5em;
+}
+
+.footnotes {
+  margin-top: 3em;
+  padding-top: 1em;
+  border-top: 1px solid #ccc;
+  font-size: 0.9em;
+}
+
+.footnotes hr {
+  display: none;
+}
+
+.footnotes ol {
+  padding-left: 1.5em;
+}
+
+.footnotes li {
+  margin-bottom: 0.5em;
+}
+
+.footnote-ref {
+  font-size: 0.75em;
+  vertical-align: super;
+  line-height: 0;
+}
+
+.footnote-backref {
+  font-size: 0.8em;
+  margin-left: 0.3em;
+}
+
+
+.back-nav {
+  margin-bottom: 2em;
 }

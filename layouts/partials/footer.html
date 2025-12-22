@@ -1,9 +1,10 @@
 <hr />
 
+{{ if .showBadges }}
 {{ partial "badges.html" }}
+{{ end }}
 
 <footer>
-  I seek refuge in God, from Satan the rejected. <br> 
-  Written by: {{.Site.Params.author }}, by the date of: {{ now.Format "02-01-2006 15:04" }}. <br>
-  <span style="font-size:0.8em;">Site source: <a href="https://anders.unix.se/" style="color: inherit;">Anders</a></span>
+  I seek refuge in God, from Satan the rejected. <br>
+  Written by: {{ .context.Site.Params.author }}, by the date of: {{ now.Format "02-01-2006 15:04" }}.
 </footer>

@@ -4,37 +4,39 @@
 
 <body>
 
-<main id="content">
+	<main id="content">
 
-	<article class="post">
+		<article class="post">
 
-		<header class="entry-header">
-			<div class="entry-header-meta">
-				<address>
-					<a rel="author" class="url fn n" href="/">
+			<nav class="back-nav">
+				<a href="/">Home</a>
+			</nav>
+
+			<header class="entry-header">
+				<h1>{{ .Title }}</h1>
+				<div class="entry-header-meta">
+					<address>
 						{{ .Site.Params.author | default .Site.Title }}
-					</a>
-				</address>
+					</address>
+					<time class="entry-date published updated" datetime="{{ .Date.Format " 2006-01-02T15:04:05" }}">
+						{{ .Date.Format "January 02, 2006" }}
+					</time>
+				</div>
+			</header>
 
-				<time class="entry-date published updated" datetime="{{ .Date.Format "2006-01-02T15:04:05" }}">
-					{{ .Date.Format "January 02, 2006" }}
-				</time>
+			<div class="entry-content">
+				{{ .Content }}
 			</div>
-			<h1>{{ .Title }}</h1>
-		</header>
 
-		<div class="entry-content">
-			{{ .Content }}
-		</div>
+			<footer class="entry-footer">
+			</footer>
 
-		<footer class="entry-footer">
-		</footer>
+		</article>
 
-	</article>
+	</main>
 
-</main>
-
-{{ partial "footer-simple.html" . }}
+	{{ partial "footer.html" (dict "showBadges" false "showSource" false "context" .) }}
 
 </body>
+
 </html>

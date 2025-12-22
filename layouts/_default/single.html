@@ -4,30 +4,31 @@
 
 <body>
 
-<main id="content">
+	<main id="content">
 
-	<header class="page-header">
-		<div class="entry-header-meta">
-			<address>
-				<a rel="author" class="url fn n" href="/">
-					{{ .Site.Params.author | default .Site.Title }}
-				</a>
-			</address>
+		<header class="page-header">
+			<div class="entry-header-meta">
+				<address>
+					<a rel="author" class="url fn n" href="/">
+						{{ .Site.Params.author | default .Site.Title }}
+					</a>
+				</address>
+			</div>
+			<h1>{{ .Title }}</h1>
+		</header>
+
+		<div class="page-content">
+			{{ .Content }}
+
+			{{ if eq .Title "Guestbook" }}
+			{{ partial "giscus.html" . }}
+			{{ end }}
 		</div>
-		<h1>{{ .Title }}</h1>
-	</header>
 
-	<div class="page-content">
-		{{ .Content }}
+	</main>
 
-		{{ if eq .Title "Guestbook" }}
-		{{ partial "giscus.html" . }}
-		{{ end }}
-	</div>
-
-</main>
-
-{{ partial "footer-simple.html" . }}
+	{{ partial "footer.html" (dict "showBadges" false "showSource" false "context" .) }}
 
 </body>
+
 </html>

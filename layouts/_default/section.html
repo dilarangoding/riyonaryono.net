@@ -4,39 +4,40 @@
 
 <body>
 
-<main id="content">
+	<main id="content">
 
-	<header class="page-header">
+		<header class="page-header">
 			<div class="entry-header-meta">
-        <address>
-          <a rel="author" class="url fn n" href="/">
-            {{ .Site.Params.author | default .Site.Title }}
-          </a>
-        </address>
-      </div>
-		<h1>{{ .Title }}</h1>
-	</header>
+				<address>
+					<a rel="author" class="url fn n" href="/">
+						{{ .Site.Params.author | default .Site.Title }}
+					</a>
+				</address>
+			</div>
+			<h1>{{ .Title }}</h1>
+		</header>
 
-	<div class="page-content">
-		{{ .Content }}
+		<div class="page-content">
+			{{ .Content }}
 
-		<ul>
-		{{ range .Pages }}
-			<li>
-				<a href="{{ .RelPermalink }}">{{ .Title }}</a>
-				{{ if .Date }}
-				<time datetime="{{ .Date.Format "02-01-2006" }}">
-					({{ .Date.Format "02-01-2006" }})
-				</time>
+			<ul>
+				{{ range .Pages }}
+				<li>
+					<a href="{{ .RelPermalink }}">{{ .Title }}</a>
+					{{ if .Date }}
+					<time datetime="{{ .Date.Format " 02-01-2006" }}">
+						({{ .Date.Format "02-01-2006" }})
+					</time>
+					{{ end }}
+				</li>
 				{{ end }}
-			</li>
-		{{ end }}
-		</ul>
-	</div>
+			</ul>
+		</div>
 
-</main>
+	</main>
 
-{{ partial "footer-simple.html" . }}
+	{{ partial "footer.html" (dict "showBadges" false "showSource" false "context" .) }}
 
 </body>
+
 </html>
