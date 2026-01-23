@@ -4,7 +4,7 @@ title: "About"
 
 ## Who I Am
 
-I'm Riyon Aryono, a software engineer and Computer Science student based in Indonesia. I build things for the web and occasionally write about technology, philosophy, and the absurdity of existence.
+I'm Riyon Aryono, a software engineer and Computer Science student based in Indonesia. I build things for the web and occasionally write about whatever random thigs are in my head. 
 
 By day, I'm buried in code and coursework. By night, I'm usually playing guitar, going to gigs, or wandering around finding ice cream. I write to process random thoughts and dissect ideas. Often, these notes turn into real projects later.
 
@@ -43,13 +43,3 @@ The design and structure of this site draws heavy inspiration from [Anders](http
 - **Typography:** System fonts, nothing fancy
 - **JavaScript:** Minimal- only for external link handling
 
-### Philosophy
-
-This site follows a few principles:
-- No tracking, no analytics, no cookies
-- No JavaScript frameworks - just plain HTML, CSS, and minimal JS
-- Content-first design
-- Fast loading times
-- Accessibility matters
-
-The web doesn't need to be complicated. Sometimes the best technology is the one you barely notice.

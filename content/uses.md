@@ -5,30 +5,26 @@ title: "Uses"
 
 ### Hardware
 
-- **Laptop:** Asus VivoBook X407UB
+- Laptop: Asus VivoBook X407UB
 
 ### Software & Tools
 
 #### Development
-- **Editor:** Zed & Neovim
-- **API Client:** Yaak
-- **Database:** DBeaver
-- **Terminal:** Alacritty
-- **OS:** Fedora Sway Tiling WM
+- Editor: Zed & Neovim
+- API Client: Yaak
+- Database: DBeaver
+- Terminal: Kitty
+- OS: Fedora I3 WM
 
 #### Productivity
-- **Notes:** Obsidian & Notesnook
-- **Task Manager:** TicTick
-- **Browser:** Zen Browser
-- **Password Manager:** Bitwarden
-- **Flashcards:** Anki
+- Notes: Obsidian
+- Task Manager: TicTick
+- Browser: Zen Browser
+- Password Manager: Bitwarden
+- Flashcards: Anki
 
 #### Mobile
-- **YouTube:** NewPipe
-- **Launcher:** Flow Launcher
+- YouTube: NewPipe
+- Launcher: Flow Launcher
+- Music : OpenTune
 
-### This Site
-
-- **Generator:** Hugo
-- **Hosting:** Cloudflare Pages
-- **Repository:** GitHub
