@@ -33,9 +33,8 @@ This website is built with [Hugo](https://gohugo.io/), a fast and flexible stati
 
 The design and structure of this site draws heavy inspiration from [Anders](https://anders.unix.se/), whose clean and thoughtful approach to personal websites reminded me why I fell in love with the web in the first place.
 
-- **Generator:** [Hugo](https://gohugo.io/)
-- **Hosting:** [Cloudflare Pages](https://pages.cloudflare.com/)
-- **Source Code:** [GitHub](https://github.com/dilarangoding/riyonaryono.net)
-- **Typography:** Tinos
-- **JavaScript:** Minimal- only for external link handling
+- Generator: [Hugo](https://gohugo.io/)
+- Hosting: [Cloudflare Pages](https://pages.cloudflare.com/)
+- Source Code: [GitHub](https://github.com/dilarangoding/riyonaryono.net)
+- Typography: Tinos
 
