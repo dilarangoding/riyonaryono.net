@@ -4,26 +4,30 @@ title: "Books"
 
 ### 2025
 
-- **Laut Bercerita** by Leila S. Chudori
+- Laut Bercerita by Leila S. Chudori
+- The Alchemist by Paulo Coelho
+- Le Petit Prince by Antoine de Saint-Exupéry
+- Discourse on the Method by René Descartes
+- Meditations on First Philosophy by René Descartes
 
 ### 2024
 
-- **Building a Second Brain** by Tiago Forte
-- **The Fall** by Albert Camus
-- **The Stone Grows** by Albert Camus
-- **The Myth of Sisyphus** by Albert Camus
-- **The Metamorphosis** by Franz Kafka
-- **The Picture of Dorian Gray** by Oscar Wilde
-- **Namaku Alam** by Leila S. Chudori
+- Building a Second Brain by Tiago Forte
+- The Fall by Albert Camus
+- The Stone Grows by Albert Camus
+- The Myth of Sisyphus by Albert Camus
+- The Metamorphosis by Franz Kafka
+- The Picture of Dorian Gray by Oscar Wilde
+- Namaku Alam by Leila S. Chudori
 
 ### 2023
 
-- **Aku Ini Binatang Jalang** by Chairil Anwar
-- **The Stranger** by Albert Camus
-- **Norwegian Wood** by Haruki Murakami
-- **Sepotong Senja Untuk Pacarku** by Seno Gumira Ajidarma
+- Aku Ini Binatang Jalang by Chairil Anwar
+- The Stranger by Albert Camus
+- Norwegian Wood by Haruki Murakami
+- Sepotong Senja Untuk Pacarku by Seno Gumira Ajidarma
 
 ### 2022
 
-- **Pulang** by Leila S. Chudori
-- **Filosofi Teras** by Henry Manampiring
+- Pulang by Leila S. Chudori
+- Filosofi Teras by Henry Manampiring

@@ -1,8 +1,8 @@
 ---
-title: "Riyonaryono"
+title: "Riyon Aryono"
 ---
 
-Software Enginer.
+Software Engineer.
 
 ### Contact
 
@@ -12,4 +12,6 @@ Software Enginer.
 
 ### Currently
 
-I’m a Computer Science student by day. By night, I’m usually playing guitar, going to gigs, or wandering around finding ice cream. I write to process random thoughts and dissect ideas. Often, these notes turn into real projects later.
+I'm a final-year Computer Science student at Telkom University.
+
+In my spare time, I run [Bixite Studio](https://bixitestudio.com), where I work on freelance projects and build web applications. I'm passionate about open source software, clean code, and creating tools that solve real problems.
