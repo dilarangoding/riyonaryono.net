@@ -12,5 +12,5 @@ Hari dimana masalah yang sama datang lagi\
 Hari dimana skripsi kembali terabaikan lagi\
 Hari dimana tangki bensin minta diisi lagi\
 Hari dimana notifikasi UKT muncul menyapa lagi\
-Hari di mana basa-basi interview terucap lagi\
+Hari dimana basa-basi interview terucap lagi\
 Hari di mana Purwokerto basah diguyur hujan lagi
