@@ -13,10 +13,8 @@ By day, I'm buried in code and coursework. By night, I'm usually playing guitar,
 I work primarily with web technologies building applications, APIs, and everything in between. I'm passionate about clean code, good design, and making software that doesn't suck.
 
 Current interests:
-- Web development & software engineering
 - Open source & Linux
-- Music & live gigs
-- Philosophy & reading
+- Music & Reading
 - Making sense of the chaos
 
 ### Contact
@@ -31,10 +29,8 @@ Feel free to reach out:
 
 This website is built with [Hugo](https://gohugo.io/), a fast and flexible static site generator. The design is intentionally minimal and text-focused.
 
-The design and structure of this site draws heavy inspiration from [Anders](https://anders.unix.se/), whose clean and thoughtful approach to personal websites reminded me why I fell in love with the web in the first place.
+The design and structure of this site draws heavy inspiration from [Anders](https://anders.unix.se/), whose clean and thoughtful approach to personal websites reminded me why I fell in love with the web.
 
 - Generator: [Hugo](https://gohugo.io/)
 - Hosting: [Cloudflare Pages](https://pages.cloudflare.com/)
 - Source Code: [GitHub](https://github.com/dilarangoding/riyonaryono.net)
-- Typography: Tinos
-

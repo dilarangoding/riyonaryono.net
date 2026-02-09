@@ -1,37 +1,4 @@
-@font-face {
-  font-family: 'Tinos';
-  src: url('/fonts/Tinos-Regular.woff2') format('woff2');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Tinos';
-  src: url('/fonts/Tinos-Italic.woff2') format('woff2');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Tinos';
-  src: url('/fonts/Tinos-Bold.woff2') format('woff2');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Tinos';
-  src: url('/fonts/Tinos-BoldItalic.woff2') format('woff2');
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
-
 body {
-  font-family: 'Tinos', 'Times New Roman', serif;
   color: #222;
   line-height: 1.5;
   margin: 1em auto;
@@ -129,7 +96,6 @@ footer {
 }
 
 .badges {
-  text-align: center;
   margin: 2em 0;
 }
 

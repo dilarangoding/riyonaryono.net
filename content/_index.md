@@ -13,5 +13,3 @@ Software Engineer.
 ### Currently
 
 I'm a final-year Computer Science student at Telkom University.
-
-In my spare time, I run [Bixite Studio](https://bixitestudio.com), where I work on freelance projects and build web applications. I love music.

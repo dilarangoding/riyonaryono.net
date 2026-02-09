@@ -9,9 +9,6 @@
   {{ $style := resources.Get "css/style.css" | resources.Minify |
   resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
-  {{ $pocketgrid := resources.Get "css/pocketgrid.css" | resources.Minify |
-  resources.Fingerprint }}
-  <link rel="stylesheet" href="{{ $pocketgrid.RelPermalink }}" />
   {{ $js := resources.Get "js/main.js" | resources.Minify | resources.Fingerprint }}
   <script src="{{ $js.RelPermalink }}" defer></script>
 </head>

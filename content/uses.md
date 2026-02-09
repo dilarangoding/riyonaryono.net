@@ -3,28 +3,27 @@ title: "Uses"
 ---
 
 
-### Hardware
+**Hardware** 
 
 - Laptop: Asus VivoBook X407UB
 
-### Software & Tools
-
-#### Development
-- Editor: Zed & Neovim
+**Development**
+- Editor: Neovim
 - API Client: Yaak
 - Database: DBeaver
-- Terminal: Kitty
-- OS: Fedora I3 WM
+- Terminal: Foot
+- OS: Debian 13 Sway WM
 
-#### Productivity
-- Notes: Obsidian
-- Task Manager: TicTick
-- Browser: Zen Browser
+**Productivity**
+- Notes: Joplin
+- Task Manager: TickTick
+- Browser: Brave
 - Password Manager: Bitwarden
 - Flashcards: Anki
 
-#### Mobile
-- YouTube: NewPipe
-- Launcher: Flow Launcher
+**Mobile**
+- YouTube: LibreTube
+- Launcher: Multi Launcher
 - Music : OpenTune
+- RSS: Hacki
 
