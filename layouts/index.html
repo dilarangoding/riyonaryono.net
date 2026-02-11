@@ -10,7 +10,7 @@
   <main>
     {{ .Content }}
 
-    {{ $posts := where .Site.RegularPages "Type" "posts" }}
+    {{ $posts := where .Site.RegularPages "Type" "blog" }}
     {{ if $posts }}
     <h3 id="posts">Notes & Articles</h3>
     <ul>
@@ -18,7 +18,7 @@
       <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "02-01-2006" }})</li>
       {{ end }}
       <li>
-        <a href="/posts">
+        <a href="/blog">
           View all notes & articles
         </a>
       </li>
@@ -43,7 +43,7 @@
     <h3>Links</h3>
     <ul>
       <li><a href="/about">About</a></li>
-      <li><a href="/posts">Notes & Articles</a></li>
+      <li><a href="/blog">Notes & Articles</a></li>
       <li><a href="/projects">Projects</a></li>
       <li><a href="/library">Library</a></li>
       <li><a href="/music">Music</a></li>
