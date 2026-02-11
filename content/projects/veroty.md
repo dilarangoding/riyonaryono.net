@@ -24,8 +24,6 @@ Designed with a focus on usability, structured product presentation, and easy co
 
 ## Project Info
 
-Type: Client Project
-
-Website: https://veroty.co.id
-
+Type: Client Project\
+Website: https://veroty.co.id\
 Status: Production
