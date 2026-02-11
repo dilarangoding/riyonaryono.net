@@ -32,6 +32,5 @@ The platform replaced manual registration workflows and improved efficiency, acc
 
 ## Project Info
 
-Type: Institutional Project
-
+Type: Institutional Project\
 Users: 350+ Students (Single Academic Year)
