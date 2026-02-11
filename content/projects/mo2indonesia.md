@@ -32,8 +32,6 @@ The platform centralizes marketplace functionality and racing event management i
 
 ## Project Info
 
-Type: Client Project
-
-Status: Production
-
+Type: Client Project\
+Status: Production\
 Website: https://mo2indonesia.com
