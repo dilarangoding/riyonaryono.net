@@ -5,13 +5,15 @@ draft: false
 ---
 ![](/images/content/beranda-tootie-kidz-center-02-11-2026_07_31_pm.png)
 
-Tootie Kidz Center is a company profile website built to represent a children's learning and development center.
+Tootie Kidz Center is a company profile website developed for a children's learning and development center.
 
 ## Overview
 
-A professional and informative website designed to provide structured information about the center’s services, programs, vision, and contact details.
+A professional and structured company profile website designed to communicate the center’s services, programs, vision, and contact information clearly.
 
-The website focuses on clarity, accessibility, and performance to ensure parents can easily navigate and find important information.
+The website prioritizes user-friendly navigation, clean layout, and fast loading performance to ensure parents can easily access important information.
+
+Built and optimized to deliver reliability, accessibility, and strong online presence.
 
 ## Stack
 
@@ -19,7 +21,10 @@ The website focuses on clarity, accessibility, and performance to ensure parents
 - Elementor
 - SEO Optimization
 - Caching Optimization
+- Cloud Hosting
 
-## Links
+## Project Info
 
-Live Demo: https://tootiekidzcenter.com
+Type: Client Project  
+Status: Production
+https://tootiekidzcenter.com
