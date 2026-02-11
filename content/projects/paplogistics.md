@@ -34,6 +34,5 @@ Built using a server-driven architecture with Livewire to enable dynamic interfa
 
 ## Project Info
 
-Type: Client Project
-
+Type: Client Project\
 Status: Production
