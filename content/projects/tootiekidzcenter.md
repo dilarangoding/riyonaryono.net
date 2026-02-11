@@ -19,7 +19,6 @@ The website focuses on clarity, accessibility, and performance to ensure parents
 - Elementor
 - SEO Optimization
 - Caching Optimization
-- Cloud Hosting
 
 ## Links
 
