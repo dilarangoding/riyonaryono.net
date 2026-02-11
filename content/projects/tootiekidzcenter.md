@@ -3,7 +3,8 @@ title: Tootie Kidz Center
 date: 2025-11-10T10:00:00+07:00
 draft: false
 ---
-![](/images/content/beranda-tootie-kidz-center-02-11-2026_07_31_pm.png)
+
+![](/images/content/tootie.webp)
 
 Tootie Kidz Center is a company profile website developed for a children's learning and development center.
 
@@ -25,6 +26,6 @@ Built and optimized to deliver reliability, accessibility, and strong online pre
 
 ## Project Info
 
-Type: Client Project  
-Status: Production
-https://tootiekidzcenter.com
+Type: Client Project\
+Status: Production\
+Website: https://tootiekidzcenter.com
