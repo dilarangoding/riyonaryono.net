@@ -12,4 +12,4 @@ Software Engineer.
 
 ### Currently
 
-I'm a final-year Computer Science student at Telkom University.
+Completing my Computer Science degree at Telkom University.

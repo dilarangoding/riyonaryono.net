@@ -15,7 +15,7 @@ enableRobotsTXT = true
 
 [params]
   author = 'Riyon Aryono'
-  description = 'Developer.'
+  description = 'Software Engineer.'
   buildDate = '2025-12-13'
 
 [markup.goldmark.renderer]

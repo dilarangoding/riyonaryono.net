@@ -21,7 +21,7 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: "Draft", name: "draft", widget: "boolean", default: true }
       - { label: "Tags", name: "tags", widget: "list", allow_add: true, collapsed: false, field: { label: "Tag", name: "tag", widget: "string" } }
-      - { label: "Body", name: "body", widget: "markdown", default_mode: "raw" }
+      - { label: "Body", name: "body", widget: "markdown", modes: ["raw"] }
 
   - name: "projects"
     label: "Projects"
@@ -34,4 +34,26 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: "HH:mm:ss", format: "YYYY-MM-DDTHH:mm:ssZ" }
       - { label: "Draft", name: "draft", widget: "boolean", default: true }
-      - { label: "Body", name: "body", widget: "markdown", default_mode: "raw" }
+      - { label: "Body", name: "body", widget: "markdown", modes: ["raw"] }
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "library"
+        label: "Library"
+        file: "content/library.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown", modes: ["raw"] }
+      - name: "music"
+        label: "Music"
+        file: "content/music.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown", modes: ["raw"] }
+      - name: "people"
+        label: "People & Blogs"
+        file: "content/people-and-blogs.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown", modes: ["raw"] }

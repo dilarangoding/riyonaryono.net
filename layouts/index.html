@@ -1,57 +1,55 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ .Site.Language.Lang }}">
-{{ partial "head.html" . }}
+  {{ partial "head.html" . }}
 
-<body>
-  <header>
-    <h2>{{ .Site.Params.author | default .Site.Title }}</h2>
-  </header>
+  <body>
+    <header>
+      <h2>{{ .Site.Params.author | default .Site.Title }}</h2>
+    </header>
 
-  <main>
-    {{ .Content }}
-
-    {{ $posts := where .Site.RegularPages "Type" "blog" }}
-    {{ if $posts }}
-    <h3 id="posts">Notes & Articles</h3>
-    <ul>
-      {{ range first 5 $posts }}
-      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "02-01-2006" }})</li>
+    <main>
+      {{ .Content }} {{ $posts := where .Site.RegularPages "Type" "blog" }} {{
+      if $posts }}
+      <h3 id="posts">Notes & Articles</h3>
+      <ul>
+        {{ range first 5 $posts }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format
+          "02-01-2006" }})
+        </li>
+        {{ end }}
+        <li>
+          <a href="/blog"> View all notes & articles </a>
+        </li>
+      </ul>
+      {{ end }} {{ $projects := where .Site.RegularPages "Type" "projects" }} {{
+      if $projects }}
+      <h3 id="projects">Projects</h3>
+      <ul>
+        {{ range first 5 $projects }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format
+          "02-01-2006" }})
+        </li>
+        {{ end }}
+        <li>
+          <a href="/projects"> View all projects </a>
+        </li>
+      </ul>
       {{ end }}
-      <li>
-        <a href="/blog">
-          View all notes & articles
-        </a>
-      </li>
-    </ul>
-    {{ end }}
 
-    {{ $projects := where .Site.RegularPages "Type" "projects" }}
-    {{ if $projects }}
-    <h3 id="projects">Projects</h3>
-    <ul>
-      {{ range first 5 $projects }}
-      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Date.Format "02-01-2006" }})</li>
-      {{ end }}
-      <li>
-        <a href="/projects">
-          View all projects
-        </a>
-      </li>
-    </ul>
-    {{ end }}
+      <h3>Links</h3>
+      <ul>
+        <li><a href="/blog">Notes & Articles</a></li>
+        <li><a href="/projects">Projects</a></li>
+        <li><a href="/library">Library</a></li>
+        <li><a href="/music">Music</a></li>
+        <li><a href="/people-and-blogs">People & Blogs</a></li>
+      </ul>
+    </main>
 
-    <h3>Links</h3>
-    <ul>
-      <li><a href="/about">About</a></li>
-      <li><a href="/blog">Notes & Articles</a></li>
-      <li><a href="/projects">Projects</a></li>
-      <li><a href="/library">Library</a></li>
-      <li><a href="/music">Music</a></li>
-      <li><a href="/people-and-blogs">People & Blogs</a></li>
-    </ul>
-  </main>
-
-  {{ partial "footer.html" (dict "showBadges" true "showSource" true "context" .) }}
-</body>
-
+    {{ partial "footer.html" (dict "showBadges" true "showSource" true "context"
+    .) }}
+  </body>
 </html>
+
