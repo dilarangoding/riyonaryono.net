@@ -1,15 +1,18 @@
 ---
-title: "Music"
+title: Music
 ---
 
-Music has always been a big part of my life. Here are some of the songs and albums that have shaped my taste and continue to inspire me. There are way more that I love, but I'll list them here when I have the time.
+Music has always been a big part of my life. Here are some of the songs and albums that have shaped my taste and continue to inspire me.
 
 **Favorite Songs**
 
 - *Sometimes I Feel Like a Motherless Child* by Arne Domnérus & Gustaf Sjökvist
+- *Plus Près de Toi* by Amenra
 - *Dogma Milenial Provinsi Yggdrasil* by BAPAK.
+- *Pay to Cum* by Bad Brains
 - *Sleep Apnea* by Beach Fossils
 - *Great Mass of Color* by Deafheaven
+- *Holiday in Cambodia* by Dead Kennedys
 - *Mencarter Roket* by Duo Kribo
 - *Tubuhmu Membiru...Tragis* by Efek Rumah Kaca
 - *Putih* by Efek Rumah Kaca
@@ -23,6 +26,8 @@ Music has always been a big part of my life. Here are some of the songs and albu
 - *Saudade* by Kunto Aji
 - *When the Levee Breaks* by Led Zeppelin
 - *Interstellar Overdrive* by Pink Floyd
+- *Any Colour You Like* by Pink Floyd
+- *Breath* by Pink Floyd
 - *Prologue* by Reality Club
 - *Evil War* by Shark Move
 - *Etalase* by Sore
@@ -30,6 +35,7 @@ Music has always been a big part of my life. Here are some of the songs and albu
 - *Strawberry Fields Forever* by The Beatles
 - *Break on Through* by The Doors
 - *Premature* by The Porno
+- *Midnight Mosque Song* by The SIGIT
 - *Cheer Up* by Twice
 - *Roman Ketiga* by White Shoes & The Couples Company
 
@@ -49,4 +55,5 @@ Music has always been a big part of my life. Here are some of the songs and albu
 - *The Beatles* by The Beatles
 - *The Doors* by The Doors
 - *Subliminal* by The Porno
+- *The Stone Roses* by The stone Roses
 - *Vakansi* by White Shoes & The Couples Company
