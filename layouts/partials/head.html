@@ -2,9 +2,11 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="referrer" content="no-referrer" />
+  <meta name="author" content="{{ .Site.Params.author }}" />
+  {{ with .Description }}
+  <meta name="description" content="{{ . }}" />{{ end }}
   <title>
-    {{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title
-    }}{{ end }}
+    {{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}
   </title>
   {{ $style := resources.Get "css/style.css" | resources.Minify |
   resources.Fingerprint }}
