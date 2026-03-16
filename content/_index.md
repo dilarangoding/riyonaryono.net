@@ -13,5 +13,4 @@ Software Engineer.
 
 ### Currently
 
-Completing my Computer Science degree at Telkom University.
-
+Freelancing and finishing a computer science degree in my free time.
