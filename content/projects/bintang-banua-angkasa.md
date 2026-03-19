@@ -1,7 +1,7 @@
 ---
 title: Bintang Banua Angkasa
 date: 2026-03-03T18:17:00+07:00
-draft: true
+draft: false
 ---
 ![](/images/content/bintanbanuaangkasa.png)
 
