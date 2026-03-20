@@ -1,5 +1,5 @@
 ---
-title: Yang Belum Pernah Ditanya
+title: Yang Belum Pernah Ditanyakan
 date: 2026-03-21T02:39:00+07:00
 draft: false
 ---
