@@ -2,7 +2,7 @@
 title: "Riyon Aryono"
 ---
 
-Software Engineer.
+Software Developer.
 
 ### Contact
 
@@ -13,4 +13,4 @@ Software Engineer.
 
 ### Currently
 
-Freelancing and finishing a computer science degree in my free time.
+Freelancing and finishing a bachelor’s in my free time.
