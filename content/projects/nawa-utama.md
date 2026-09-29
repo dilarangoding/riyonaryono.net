@@ -1,7 +1,7 @@
 ---
 title: Nawa Utama
 date: 2026-07-09T11:01:00+07:00
-draft: true
+draft: false
 ---
 ![](images/content/nawautama-home.webp)
 
