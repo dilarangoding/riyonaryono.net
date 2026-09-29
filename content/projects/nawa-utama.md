@@ -4,7 +4,7 @@ date: 2026-07-09T11:01:00+07:00
 draft: false
 ---
 
-![](/images/content/nawautama-home.webp)
+![](/images/content/nawautama.webp)
 
 Nawa Utama is a publisher, bookstore, and book catalog website developed to showcase and manage published books through a structured digital platform.
 
