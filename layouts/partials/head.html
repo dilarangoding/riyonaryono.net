@@ -3,11 +3,32 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="referrer" content="no-referrer" />
   <meta name="author" content="{{ .Site.Params.author }}" />
-  {{ with .Description }}
-  <meta name="description" content="{{ . }}" />{{ end }}
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  {{ $rawDescription := .Description | default .Summary | default .Site.Params.description }}
+  {{ $description := "" }}
+  {{ with $rawDescription }}
+  {{ $plain := . | plainify }}
+  {{ $description = (replaceRE "\\s+" " " $plain) | strings.TrimSpace | truncate 160 }}
+  {{ end }}
+  {{ $pageTitle := .Title }}
+  {{ if .IsHome }}{{ $pageTitle = .Site.Title }}{{ end }}
+
+  {{ with $description }}<meta name="description" content="{{ . }}" />{{ end }}
   <title>
-    {{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}
+    {{ $pageTitle }}
   </title>
+
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+  <meta property="og:title" content="{{ $pageTitle }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
+  {{ with $description }}<meta property="og:description" content="{{ . }}" />{{ end }}
+  <meta property="og:image" content="{{ "images/og-image.png" | absURL }}" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ $pageTitle }}" />
+  {{ with $description }}<meta name="twitter:description" content="{{ . }}" />{{ end }}
+  <meta name="twitter:image" content="{{ "images/og-image.png" | absURL }}" />
   {{ $style := resources.Get "css/style.css" | resources.Minify |
   resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
